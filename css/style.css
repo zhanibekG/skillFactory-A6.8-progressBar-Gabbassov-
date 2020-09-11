@@ -1,0 +1,27 @@
+ #greyProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+ #greenBar {
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#redBar {
+  background-color: #FF0000;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#yellowBar {
+  background-color: #EAE900;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+
